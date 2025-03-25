@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "707882353921",
+    "project_id": "bitki-teshis",
+    "storage_bucket": "bitki-teshis.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707882353921:android:98535cdd3dd81a6bd20700",
+        "android_client_info": {
+          "package_name": "com.example.bitki_teshis"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1BytrrZqmMN8KDEZ1PJ0XmRs2QNGwnQs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
